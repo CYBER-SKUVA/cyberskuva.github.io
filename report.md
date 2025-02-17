@@ -1,0 +1,1 @@
+I initialised a github repository, and then I cloned the repository to my local desktop. On my local machine I created my files including this one using the terminal.I'm using the terminal to write this file,cool. The index.html file will be deployed on a github pages and the username will be cyberskuva.I am yyet to make commits and <i shall do them now after this.
